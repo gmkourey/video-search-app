@@ -1,0 +1,26 @@
+.search-bar {
+    width: 75%;
+    margin-top: 15px;
+    margin-left: 0px;
+}
+
+.video-detail {
+    padding-left: 0px !important;
+    margin-top: 15px;
+}
+.video-detail .detail {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+.list-group {
+    margin-top:15px;
+}
+.list-group-item:hover {
+    background-color:lightgrey;
+    cursor:pointer;
+}
+.mediaHeading {
+    margin-left:10px;
+}
